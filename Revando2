@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css"/>
+  <title>Upper Moon</title>
+  </head>
+
+<body>
+  <div class="container">
+    <section class="section">
+  <h1>Upper Moon</h1>
+  <p>The Twelve Kizuki (十じゅう二に鬼き月づき Jūnikizuki, lit. Twelve Demon Moons) is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer: Kimetsu no Yaiba.</p>
+  </section>
+  <br />
+  <section class:"section">
+    <h1>kokushibo</h1>
+    <img src="img/kokushibo.png" width="300" height="300">
+    <p>Kokushibo (黑死牟) is the secondary antagonist of the manga/anime series Demon Slayer: Kimetsu no Yaiba. He is Upper Rank One of the Twelve Kizuki, and the archenemy of his younger twin brother, Yoriichi Tsugikuni.</p>
+  </section>
+  <br />
+  <section>
+    <h2>Doma</h2>
+    <img src="img/doma.jpg" width="300" height="300"> <br />
+    <p1>Doma (童どう磨ま Dōma) is a major supporting antagonist of Demon Slayer: Kimetsu no Yaiba. He is a demon affiliated with the Twelve Kizuki, holding the second highest position, Upper Rank Two (上じょう弦げんの弐に Jōgen no Ni)</p1>
+  </section>
+  <br />
+  <section>
+    <h3>Akaza</h3>
+    <img src="img/akaza.jpg" width="300" height="300">
+    <p>Akaza (猗あ窩か座ざ Akaza) is a major supporting antagonist of Demon Slayer: Kimetsu no Yaiba. He is a demon affiliated with the Twelve Kizuki, holding the third highest position, Upper Rank Three (上じょう弦げんの参さん Jōgen no San)</p>
+  </section>
+  </div>
+</body>
